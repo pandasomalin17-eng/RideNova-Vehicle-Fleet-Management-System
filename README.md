@@ -54,8 +54,8 @@ The complete project documentation is available in this repository.
 
 ## Author
 
-**Khushi **
+**Somalin Panda**
 
-B.Tech CSE Student
+MBA Student
 
-Salesforce Administrator | Aspiring Salesforce Developer
+Salesforce Administrator 
